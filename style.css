@@ -1,0 +1,14 @@
+body {
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a {
+}
+h1 {
+  color: brown;
+  size: 12px;
+}
+#COORDONNEES {
+  font-weight: thin;
+  text-align: right;
+}
